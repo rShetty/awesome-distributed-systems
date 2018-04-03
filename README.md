@@ -19,7 +19,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [Distributed systems theory](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [Distributed systems and the end of the api](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-- [Notes on Distributed Systems for young bloods](www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Notes on Distributed Systems for young bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Round Robin in Distributed Systems](https://engineering.grab.com/round-robin-in-distributed-systems)
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [Why distributed computing](https://www.artima.com/weblogs/viewpost.jsp?thread=4247)
