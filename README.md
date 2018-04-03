@@ -13,6 +13,6 @@ Awesome list of distributed system resources, papers and open source projects
 
 ## Papers
 
-- Time, clocks and the Ordering of events in a Distributed System [[paper](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)]
+- [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 ## OpenSource
