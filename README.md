@@ -48,6 +48,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
+- [Raft](https://raft.github.io/raft.pdf)
 
 ## Videos
 
