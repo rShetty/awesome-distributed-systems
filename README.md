@@ -44,11 +44,11 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [Dapper - Distributed tracing](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
 - [Dynamo - Key value store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 - [Harvest, yield and Fault tolerant systems](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)
+- [Raft](https://raft.github.io/raft.pdf)
 - [Spanner - Google's Globally distributed database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
-- [Raft](https://raft.github.io/raft.pdf)
 
 ## Videos
 
