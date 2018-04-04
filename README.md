@@ -23,6 +23,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [Round Robin in Distributed Systems](https://engineering.grab.com/round-robin-in-distributed-systems)
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [Why distributed computing](https://www.artima.com/weblogs/viewpost.jsp?thread=4247)
+- [All Things Distributed](https://www.allthingsdistributed.com/)
 
 ## Books
 
@@ -34,6 +35,8 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [cockroachdb](https://github.com/cockroachdb/cockroach)
 - [etcd](https://github.com/coreos/etcd)
 - [kubernetes](https://github.com/kubernetes/kubernetes)
+- [IPFS - the Distributed Web](https://github.com/ipfs/ipfs)
+- [HBase](https://github.com/apache/hbase)
 
 ## Papers
 
@@ -49,10 +52,11 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
+- [Comparing the use of DynamoDB and HBase for NoSQL](https://d0.awsstatic.com/whitepapers/AWS_Comparing_the_Use_of_DynamoDB_and_HBase_for_NoSQL.pdf)
 
 ## Videos
 
 - [Chubby Lock service](https://www.youtube.com/watch?v=kX9Z0F-eTt4&t=30s)
 - [Four distributed systems architectural patterns](https://www.youtube.com/watch?v=tpspO9K28PM)
 - [Verification of distributed system](https://www.youtube.com/watch?v=kDh5BrqiGhI)
-
+- [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
