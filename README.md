@@ -31,8 +31,7 @@ Awesome list of distributed system resources(blogs, videos, courses), papers and
 
 - [Designing data intensive applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Introduction to reliable and secure distributed programming](https://www.amazon.in/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?ie=UTF8&qid=1504847351&sr=8-1&keywords=Introduction+to+Reliable+and+Secure+Distributed+Programming)
-- [Distributed Systems 3rd edition (2017)]
-(https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
+- [Distributed Systems 3rd](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 
 ## OpenSource
 
