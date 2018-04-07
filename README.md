@@ -1,6 +1,6 @@
 # Awesome Distributed Systems
 
-Awesome list of distributed system resources(blogs, videos), papers and open source projects
+Awesome list of distributed system resources(blogs, videos, courses), papers and open source projects
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [OpenSource](#opensource)
 - [Papers](#papers)
 - [Videos](#videos)
+- [Courses](#courses)
 
 
 ## Blogs
@@ -30,7 +31,8 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 
 - [Designing data intensive applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Introduction to reliable and secure distributed programming](https://www.amazon.in/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?ie=UTF8&qid=1504847351&sr=8-1&keywords=Introduction+to+Reliable+and+Secure+Distributed+Programming)
-
+- [Distributed Systems 3rd edition (2017)]
+(https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
 
 ## OpenSource
 
@@ -57,7 +59,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
-
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 
 ## Videos
 
@@ -65,3 +67,7 @@ Awesome list of distributed system resources(blogs, videos), papers and open sou
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Four distributed systems architectural patterns](https://www.youtube.com/watch?v=tpspO9K28PM)
 - [Verification of distributed system](https://www.youtube.com/watch?v=kDh5BrqiGhI)
+
+## Courses
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
+- [edx: KTHx: ID2203.2x Reliable Distributed Algorithms](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/course/)
