@@ -30,13 +30,13 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 ## Books
 
 - [Designing data intensive applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [Introduction to reliable and secure distributed programming](https://www.amazon.in/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?ie=UTF8&qid=1504847351&sr=8-1&keywords=Introduction+to+Reliable+and+Secure+Distributed+Programming)
 - [Distributed Systems 3rd](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
-
+- [Introduction to reliable and secure distributed programming](https://www.amazon.com/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/)
 
 ## Courses
-- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
+
 - [KTHx: ID2203 Reliable Distributed Algorithms](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/course/)
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
 
 
 ## OpenSource
@@ -62,9 +62,9 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 - [Raft](https://raft.github.io/raft.pdf)
 - [Spanner - Google's Globally distributed database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
+- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
-- [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 
 
 ## Videos
