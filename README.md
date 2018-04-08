@@ -1,15 +1,15 @@
 # Awesome Distributed Systems
 
-Awesome list of distributed system resources(blogs, videos, courses), papers and open source projects
+Awesome list of distributed system resources(blogs, courses, videos), papers and open source projects
 
 ## Table of Contents
 
 - [Blogs](#blogs)
 - [Books](#books)
+- [Courses](#courses)
 - [OpenSource](#opensource)
 - [Papers](#papers)
 - [Videos](#videos)
-- [Courses](#courses)
 
 
 ## Blogs
@@ -32,6 +32,12 @@ Awesome list of distributed system resources(blogs, videos, courses), papers and
 - [Designing data intensive applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Introduction to reliable and secure distributed programming](https://www.amazon.in/Introduction-Reliable-Secure-Distributed-Programming/dp/3642152597/ref=sr_1_1?ie=UTF8&qid=1504847351&sr=8-1&keywords=Introduction+to+Reliable+and+Secure+Distributed+Programming)
 - [Distributed Systems 3rd](https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/)
+
+
+## Courses
+- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
+- [KTHx: ID2203 Reliable Distributed Algorithms](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/course/)
+
 
 ## OpenSource
 
@@ -60,13 +66,10 @@ Awesome list of distributed system resources(blogs, videos, courses), papers and
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 
+
 ## Videos
 
 - [Chubby Lock service](https://www.youtube.com/watch?v=kX9Z0F-eTt4&t=30s)
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Four distributed systems architectural patterns](https://www.youtube.com/watch?v=tpspO9K28PM)
 - [Verification of distributed system](https://www.youtube.com/watch?v=kDh5BrqiGhI)
-
-## Courses
-- [MIT 6.824: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
-- [edx: KTHx: ID2203.2x Reliable Distributed Algorithms](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/course/)
