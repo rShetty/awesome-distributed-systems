@@ -43,10 +43,10 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 
 - [cockroachdb](https://github.com/cockroachdb/cockroach)
 - [etcd](https://github.com/coreos/etcd)
+- [Consul](https://github.com/hashicorp/consul) 
 - [HBase](https://github.com/apache/hbase)
 - [IPFS - the Distributed Web](https://github.com/ipfs/ipfs)
 - [kubernetes](https://github.com/kubernetes/kubernetes)
-
 
 ## Papers
 
