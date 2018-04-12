@@ -59,6 +59,7 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 - [Dynamo - Key value store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 - [Increasing the resilience of Distributed and Replicated database systems](http://webee.technion.ac.il/~idish/Abstracts/jcss.html)
 - [Harvest, yield and Fault tolerant systems](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)
+- [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [Raft](https://raft.github.io/raft.pdf)
 - [Spanner - Google's Globally distributed database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 - [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
