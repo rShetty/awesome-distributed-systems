@@ -64,7 +64,7 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [Raft](https://raft.github.io/raft.pdf)
 - [Spanner - Google's Globally distributed database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-- [SWIM](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.9737)
+- [SWIM](http://www.cs.cornell.edu/projects/quicksilver/public_pdfs/SWIM.pdf)
 - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
