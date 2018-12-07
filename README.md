@@ -22,6 +22,7 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 - [Distributed systems and the end of the api](https://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Notes on Distributed Systems for young bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Overload control for Scaling Wechat Microservices](https://www.cs.columbia.edu/~ruigu/papers/socc18-final100.pdf)
 - [Round Robin in Distributed Systems](https://engineering.grab.com/round-robin-in-distributed-systems)
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [Why distributed computing](https://www.artima.com/weblogs/viewpost.jsp?thread=4247)
