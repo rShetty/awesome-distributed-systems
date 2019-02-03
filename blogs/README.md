@@ -13,3 +13,4 @@
 - [Round Robin in Distributed Systems](https://engineering.grab.com/round-robin-in-distributed-systems)
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [Why distributed computing](https://www.artima.com/weblogs/viewpost.jsp?thread=4247)
+- [BaseDS](https://medium.com/baseds)
