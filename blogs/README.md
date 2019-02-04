@@ -2,6 +2,7 @@
 
 - [All Things Distributed](https://www.allthingsdistributed.com/)
 - [A Brief tour of FLP Impossbility](http://www.the-paper-trail.org/post/2008-08-13-a-brief-tour-of-flp-impossibility/)
+- [Base Distributed Systems](https://medium.com/baseds)
 - [Chubby Lock service](https://blog.acolyer.org/2015/02/13/the-chubby-lock-service-for-loosely-coupled-distributed-systems/)
 - [Consensus Protocols: Two-Phase Commit](http://www.the-paper-trail.org/post/2008-11-27-consensus-protocols-two-phase-commit/)
 - [Consistency vs availability](https://www.infoq.com/news/2008/01/consistency-vs-availability)
@@ -13,4 +14,3 @@
 - [Round Robin in Distributed Systems](https://engineering.grab.com/round-robin-in-distributed-systems)
 - [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 - [Why distributed computing](https://www.artima.com/weblogs/viewpost.jsp?thread=4247)
-- [BaseDS](https://medium.com/baseds)
