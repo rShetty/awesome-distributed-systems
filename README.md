@@ -9,3 +9,4 @@ Awesome list of distributed system resources(blogs, courses, videos), papers and
 - [OpenSource](https://github.com/rshetty/awesome-distributed-systems/tree/master/oss-projects)
 - [Papers](https://github.com/rshetty/awesome-distributed-systems/tree/master/papers)
 - [Videos](https://github.com/rshetty/awesome-distributed-systems/tree/master/videos)
+- [Courses](https://github.com/rshetty/awesome-distributed-systems/tree/master/courses)
